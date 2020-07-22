@@ -10,6 +10,7 @@ public class Dugujiujian {
 		System.out.println("22222");
 		System.out.println("33333");
 		System.out.println("33333");
+		System.out.println("44444");
 	}
 
 }
