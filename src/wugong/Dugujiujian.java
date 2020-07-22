@@ -14,5 +14,6 @@ public class Dugujiujian {
 		System.out.println("88888");
 		System.out.println("99999");
 		System.out.println("101010");
+		System.out.println("111111");
 	}
 }
